@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-git clone https://github.com/kamoloff/my-terminal.git
+git clone https://github.com/anuriddinoff/my-terminal.git
 cd my-terminal
 chmod +x install.sh
 ./install.sh

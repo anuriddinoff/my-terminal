@@ -23,7 +23,7 @@ sed -i 's/plugins=(git)/plugins=(git zsh-autosuggestions zsh-syntax-highlighting
 # install powerlevel10k theme
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 
-# replace .p10k.zsh with kamoloff_p10k.zsh
+# replace .p10k.zsh with anuriddinoff_p10k.zsh
 cp p10k.zsh ~/.p10k.zsh
 
 # add source ~/.p10k.zsh to ~/.zshrc
